@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+  }
+
+  .landing-page {
+    text-align: center;
+    margin-top: 100px;
+  }
+
+  .landing-page h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #333;
+  }
+
+  .landing-page h2 {
+    font-size: 28px;
+    margin-bottom: 20px;
+    color: #555;
+  }
+
+  .landing-page h3 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #777;
+  }
+
+  .landing-page p {
+    font-size: 18px;
+    margin-bottom: 10px;
+    color: #999;
+  }
